@@ -72,11 +72,15 @@ h1 {
     justify-content: space-between;
     margin: -15px 0 15px;
 }
-.remember-forgot label input {
+.remember-forgot p{
+    display: inline;
+
+}
+.remember-forgot label input{
     accent-color: #ffffff;
     margin-right: 5px;
 }
-.remember-forgot  a {
+.remember-forgot  a{
     color: #ffffff;
     text-decoration: none;
 }
