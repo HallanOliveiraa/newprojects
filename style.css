@@ -101,7 +101,6 @@ h1 {
     padding: 10px 35px 15px 20px;
     margin-top: 10px;
     color: #ffff;
-    transition: .1s;
 }
 .btn-login:hover {
     background-color: #b9b96e2f;
