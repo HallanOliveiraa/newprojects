@@ -1,6 +1,6 @@
-<h3>🚀Projeto tela de login personalizado //<br>Custom login screen project //<h3> 
+<h3>🚀 - Projeto tela de login personalizado //<br>Custom login screen project - //<h3> 
 
-<h5>Projeto realizado para adquirir conhecimentos importantes sobre registros 🗃️  de usuários 🪪 e algumas tags de formulários 📝 muito utlizdas na elaboração de landing pages.📌</h5>
+<h5>Projeto realizado para adquirir conhecimentos importantes sobre registros 🗃️  de usuários 🪪 e algumas tags de formulários 📝 muito utlizadas nas formações de landing pages.📌</h5>
 
 <h2></h2>
 
