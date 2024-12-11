@@ -1,8 +1,8 @@
 <h3>🚀 - Projeto tela de login personalizado //<br>Custom login screen project - //<h3> 
 
-<h5>Projeto realizado para adquirir conhecimentos importantes sobre registros 🗃️  de usuários 🪪 e algumas tags de formulários 📝 muito utlizadas nas formações de landing pages.📌</h5>
+<h5>Projeto realizado para adquirir conhecimentos importantes sobre registros 🗃️  de usuários 🪪 e algumas tags de formulários 📝 muito utlizadas nas formações de landing pages.📌</h5><br>
 
-<img width="35" height="35" src="https://img.icons8.com/ios-filled/50/megaphone.png" alt="megaphone"/><p>Tecnologias utilizadas ➯ HTML e CSS.</p><img width="35" height="35" src="https://img.icons8.com/3d-fluency/94/code.png" alt="code"/>
+ <img width="50" height="50" src="https://img.icons8.com/wired/64/FFFFFF/high-volume.png" alt="high-volume"/><p>Tecnologias utilizadas ➯ HTML e CSS.</p><img width="35" height="35" src="https://img.icons8.com/3d-fluency/94/code.png" alt="code"/>
 
 <h2></h2>
 
